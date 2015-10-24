@@ -99,6 +99,7 @@ header {
   width: 40%;
   float:left;
   position:fixed;
+  text-align: center;
 }
 
 header ul {
@@ -163,7 +164,6 @@ section {
   width: 45%;
   float:right;
   padding-bottom:50px;
-  text-align: center;
 }
 
 small {
